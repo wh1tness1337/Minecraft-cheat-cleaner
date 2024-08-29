@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Cleaner.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  ConsoleApplication1.cpp
+/ConsoleApplication1.cpp(1,1): error C1083: Не удается открыть файл источник: ConsoleApplication1.cpp: No such file or directory,
+  (компиляция исходного файла "/ConsoleApplication1.cpp")
+  
